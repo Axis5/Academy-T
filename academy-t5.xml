@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2018-05-01 15:05">
+<yml_catalog date="2018-05-07 17:05">
 	<shop>
 		<name>АКАДЕМИЯ-Т</name>
 		<company>АКАДЕМИЯ-Т ООО</company>
@@ -18,7 +18,7 @@
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/ForestBerry_site.0e71161ef0638bd93be3625872c2cbe9.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>FiT ВСAА 500 грамм, лесные ягоды</name>
 				<vendorCode>4607055681770</vendorCode>
@@ -45,7 +45,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Enriched_Protein_750_Vanil.58894e9e2fccdec9f1cd269a6de4a305.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ПРОТЕИН SPORTEIN®Enriched PROTEIN (750 гр.) ваниль</name>
 				<vendorCode>4607055680469</vendorCode>
@@ -61,7 +61,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Enriched_Protein_750_Klubnika.58894e9e2fccdec9f1cd269a6de4a305.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ПРОТЕИН SPORTEIN®Enriched PROTEIN (750 гр.) клубника</name>
 				<vendorCode>4607055680483</vendorCode>
@@ -77,7 +77,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Enriched_Protein_750_Choko.58894e9e2fccdec9f1cd269a6de4a305.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ПРОТЕИН SPORTEIN®Enriched PROTEIN (750 гр.) шоколад</name>
 				<vendorCode>4607055680506</vendorCode>
@@ -93,7 +93,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_protein_vanil-750.ec416c308e6b8c7ce079c34457765fcd.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитПротеин банка (750 гр.) ваниль (FITNESS FORMULA)</name>
 				<vendorCode>4607055681596</vendorCode>
@@ -109,7 +109,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_protein_straw-750.ec416c308e6b8c7ce079c34457765fcd.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитПротеин банка (750 гр.) клубника (FITNESS FORMULA)</name>
 				<vendorCode>4607055681602</vendorCode>
@@ -125,7 +125,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_protein_shoko-750.3808e33c191fe2c3724c80eb3e7e87c5.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитПротеин банка (750 гр.) шоколад (FITNESS FORMULA)</name>
 				<vendorCode>4607055681619</vendorCode>
@@ -141,7 +141,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Gainer_750_Vanil.631b68541fe6486d962075650dd81b66.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ГЕЙНЕР SPORTEIN®  GAINER  (750 гр.) ваниль</name>
 				<vendorCode>4607055680544</vendorCode>
@@ -157,7 +157,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Gainer_750_Klubnika.631b68541fe6486d962075650dd81b66.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ГЕЙНЕР SPORTEIN®  GAINER  (750 гр.) клубника</name>
 				<vendorCode>4607055680551</vendorCode>
@@ -173,7 +173,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Gainer_750_Choko.3091076d2969c62ea764b3895e81bac3.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ГЕЙНЕР SPORTEIN®  GAINER  (750 гр.) шоколад</name>
 				<vendorCode>4607055680568</vendorCode>
@@ -189,7 +189,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_gainer_vanil-750.2386d2378f8188bb5bee693e1fde6cf2.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитГейнер банка (750 г.) ваниль (FITNESS FORMULA)</name>
 				<vendorCode>4607055681626</vendorCode>
@@ -205,7 +205,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_gainer_straw-750.c51fe7857376135b75d9222be996c93b.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитГейнер банка (750 г.) клубника (FITNESS FORMULA)</name>
 				<vendorCode>4607055681633</vendorCode>
@@ -221,7 +221,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_gainer_shoko-750.c51fe7857376135b75d9222be996c93b.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитГейнер банка (750 г.) шоколад (FITNESS FORMULA)</name>
 				<vendorCode>4607055681640</vendorCode>
@@ -237,7 +237,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Изотоник</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/izy_lemon_small.eab2e99560dcd014d2b3aca74b99982f.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ИЗОТОНИК ISOTONIC Sea Energy 1200 гр. Лимон</name>
 				<vendorCode>4607055680575</vendorCode>
@@ -253,7 +253,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Изотоник</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/izy_apple_small.960b2d39df64ac60c3a53c075ab7d743.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ИЗОТОНИК ISOTONIC Sea Energy 1200 гр. Яблоко</name>
 				<vendorCode>4607055680599</vendorCode>
@@ -269,7 +269,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Антиоксидант</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/antioxidant-black.5e86df5fb71522fd35c6855946da2197.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ANTIOXIDANT Synergy 7 60 капс.</name>
 				<vendorCode>4607055681138</vendorCode>
@@ -285,7 +285,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Антиоксидант</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Omega3d-black.524a0823b4f90fb0a196635410945429.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>OMEGA-3D 90 гел. капс.</name>
 				<vendorCode>4607055681169</vendorCode>
@@ -301,7 +301,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Антиоксидант</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_omega.3808e33c191fe2c3724c80eb3e7e87c5.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Фит Омега 3-6-9 (90 caps)  (FITNESS FORMULA)</name>
 				<vendorCode>4607055681541</vendorCode>
@@ -315,13 +315,13 @@ FIT BCAA подходит для применения как в трениров
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="4607055681251" available="true">
-				<oldprice>990</oldprice>
-				<price>990</price>
+				<oldprice>861</oldprice>
+				<price>861</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Защита суставов и связок</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SUSTAMIN_220ml.9f981bd4337b30dca5ab1a17a6ab0b34.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>SUSTAMIN®  120 caps</name>
 				<vendorCode>4607055681251</vendorCode>
@@ -339,7 +339,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Защита суставов и связок</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/sustamin-180.d0b4f7b13a6210df33238a890fc2ee61.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>SUSTAMIN®  180 caps</name>
 				<vendorCode>4607055681152</vendorCode>
@@ -357,7 +357,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Защита суставов и связок</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Sustamin-forte-120caps.9f981bd4337b30dca5ab1a17a6ab0b34.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>SUSTAMIN FORTE №120  caps</name>
 				<vendorCode>4607055680445</vendorCode>
@@ -373,7 +373,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Защита суставов и связок</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Sustamin-forte%28180caps%29.d0b4f7b13a6210df33238a890fc2ee61.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>SUSTAMIN FORTE №180  caps</name>
 				<vendorCode>4607055681244</vendorCode>
@@ -389,7 +389,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Витамины</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/gemoton-90-black.72e40e73b9d48999ca6151051aac612b.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>GEMOTON®  90 капс.</name>
 				<vendorCode>4607055681220</vendorCode>
@@ -405,7 +405,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Креатин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/creatine-120-black.2cbdc1b1dcbd0efe0f2e13eb51c711de.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>CREATINE Power Rush 3000 120 капс.</name>
 				<vendorCode>4607055681114</vendorCode>
@@ -421,7 +421,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Креатин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/CREATINE_550ml_300caps.df2361ba26bef543b03e47b60839eccf.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>CREATINE Power Rush 3000 300 капс.</name>
 				<vendorCode>4607055681121</vendorCode>
@@ -437,7 +437,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Жиросжигатель</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/L-CARNITINE_90.f8650f78313547e31dda75b5cae27416.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>L-CARNITINE Weight Control  90 капс.</name>
 				<vendorCode>4607055681107</vendorCode>
@@ -453,7 +453,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Жиросжигатель</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT-L-Carnitine_visual.0881f9ef587f3927c026b3ff817ad77a.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>FIT L-СARNITINE 1800 20 amp x 25 ml.</name>
 				<vendorCode>4607055681565</vendorCode>
@@ -469,7 +469,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Жиросжигатель</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/IdealBody-L-Carnitine.91c4bd79ce35628fcd4dfaf8bd1d6f35.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Ideal Вody 20 amp x 25 ml.</name>
 				<vendorCode>4607055681589</vendorCode>
@@ -485,7 +485,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение выносливости</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/vinitro-black.b906860eb814864bf7fdd8bf2d59432e.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ViNitro 120 капс.</name>
 				<vendorCode>4607055680261</vendorCode>
@@ -503,7 +503,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение уровня тестостерона</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/TestoBoost_160ml.a18ad866be837bcf05fd88c1d586c47b.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>TestoBoost 90 капс.</name>
 				<vendorCode>4607055681176</vendorCode>
@@ -519,7 +519,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение уровня тестостерона</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/testoboost_180.a18ad866be837bcf05fd88c1d586c47b.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>TestoBoost 180 капс.</name>
 				<vendorCode>4607055681183</vendorCode>
@@ -535,7 +535,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение уровня тестостерона</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Ecdysterone_160ml.b43d2e9820e6036cd731bb858ed29968.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Ecdysterone 120 капс.</name>
 				<vendorCode>4607055681190</vendorCode>
@@ -553,7 +553,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение уровня тестостерона</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Ecdysterone_220ml.9f92c79684c0b5c92013a5a1ded7cbe0.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Ecdysterone 240 капс.</name>
 				<vendorCode>4607055681206</vendorCode>
@@ -571,7 +571,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Витамины</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/ViMiLine-60caps-black.5f1141f9b189c6c05a0732d66aaf55ba.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ViMiLine 60 капс.</name>
 				<vendorCode>4607055681213</vendorCode>
@@ -587,14 +587,14 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение выносливости</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/ExtraBeetOx%286x50ml%29.0b0500625f09bc73d3ca3961ff581068.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ExtraBeetOx  6 флаконов</name>
 				<vendorCode>4751014202121</vendorCode>
 				<description>При интенсивных физических нагрузках (бег на длительные дистанции, велогонки, лыжные виды спорта, плавание и др.) основным механизмом в организме спортсмена для обеспечения энергией организма спортсмена является аэробное окисление углеводов. Наиболее значительным фактором, влияющим на работу и выносливость, является кислородное снабжение работающих мышц, поскольку потребление кислорода во время бега поддерживает максимальную скорость окисления углеводов. На основе многолетних исследований инновационной компанией "АКАДЕМИЯ-Т" разработан «ExtraBeetOx», который способствует расширению кровеносных сосудов, обеспечивает повышенную кислородтранспортную функцию, в результате чего, мышцы лучше насыщаются кислородом и значительно увеличивается работоспособность спортсмена.</description>
 				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
 				<barcode>4751014202121</barcode>
-				<country_of_origin>Россия</country_of_origin>
+				<country_of_origin>Латвия</country_of_origin>
 			</offer>
 			<offer id="4607055681237" available="true">
 				<oldprice>560</oldprice>
@@ -603,7 +603,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Антистресс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/antistress_160ml.e550a360d9911b13ab2904afeb7ca8f8.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ANTISTRESS 60 капс.</name>
 				<vendorCode>4607055681237</vendorCode>
@@ -619,7 +619,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Защита печени</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/gepamin-2.78cdc1b10d48dfe64d0442e907a3fc25.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ГЕПАМИН (гранулят) 20 пак.</name>
 				<vendorCode>4607055680049</vendorCode>
@@ -635,7 +635,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Защита печени</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/gepamin-1.78cdc1b10d48dfe64d0442e907a3fc25.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ГЕПАМИН  (табл.) 60 табл.</name>
 				<vendorCode>4607055680100</vendorCode>
@@ -651,7 +651,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Пребиотик</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/floracia_new.f5c0ec7afc4082cb6f033bb8935951d2.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Floracia  пребиотик</name>
 				<vendorCode>4607055680308</vendorCode>
@@ -667,7 +667,7 @@ FIT BCAA подходит для применения как в трениров
 				<categoryId>1</categoryId>
 				<typePrefix>Батончики</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/protein_bar_40.c5be9dc81e639cd2ab7eda6294602d95.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>CHAMPIONS HIGH PROTEIN BAR (16 батончиков)</name>
 				<vendorCode>4607055680391</vendorCode>
@@ -687,7 +687,7 @@ Champions High Protein Bar – вкусный и натуральный бато
 				<categoryId>1</categoryId>
 				<typePrefix>Батончики</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/energy_bar_40.9f92c79684c0b5c92013a5a1ded7cbe0.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>CHAMPIONS ENERGY BAR (16 батончиков)</name>
 				<vendorCode>4607055680407</vendorCode>
@@ -709,7 +709,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Батончики</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/lcarnitine_bar_40.f8650f78313547e31dda75b5cae27416.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>CHAMPIONS L-CARNITINE BAR (16 батончиков)</name>
 				<vendorCode>4607055680438</vendorCode>
@@ -729,7 +729,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Батончики</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/helth_bar_40.91c4bd79ce35628fcd4dfaf8bd1d6f35.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>CHAMPIONS HEALTH BAR (16 батончиков)</name>
 				<vendorCode>4607055680414</vendorCode>
@@ -749,7 +749,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/bcaa_180cap.832348d6542c6ee90268e8d1a9a6b058.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>BCAA 6000 СПОРТАМИН®  180 капс. (144гр.)</name>
 				<vendorCode>4607055681046</vendorCode>
@@ -765,7 +765,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BCAA_550ml_300capsl.dd161b08dd99478f83e7a5673e0d3638.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>BCAA 6000 СПОРТАМИН®  300 капс. (240гр.)</name>
 				<vendorCode>4607055681060</vendorCode>
@@ -781,7 +781,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BCAA_220ml.eac3cfaa65773652ce4b63785a69dd42.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>BCAA 6000 СПОРТАМИН®  90 табл. (144гр.)</name>
 				<vendorCode>4607055681053</vendorCode>
@@ -797,7 +797,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BCAA_550ml_200tabs.eac3cfaa65773652ce4b63785a69dd42.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>BCAA 6000 СПОРТАМИН®  200 табл. (320гр.) </name>
 				<vendorCode>4607055681077</vendorCode>
@@ -813,7 +813,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/TetrAmin_550ml_200tabl.103d9aa7e5edd73217c49afd85d0c055.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>TetrAmin®  200 табл. аминокислотный комплекс</name>
 				<vendorCode>4607055681084</vendorCode>
@@ -830,7 +830,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Креатин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit-creatine.0881f9ef587f3927c026b3ff817ad77a.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Fit CREATINE 600 гр.</name>
 				<vendorCode>4607055681695</vendorCode>
@@ -848,7 +848,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FF_FITBCAA_cherry.bbee1f3fd45310360614104e2170ad98.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>FiT ВСAА 500 грамм, вишня</name>
 				<vendorCode>4607055681787</vendorCode>
@@ -866,7 +866,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FF_FITBCAA_apple.bbee1f3fd45310360614104e2170ad98.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>FiT ВСAА 500 грамм, яблоко</name>
 				<vendorCode>4607055681725</vendorCode>
@@ -884,7 +884,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FF_FITBCAA_lemon.b45c4423d67df0106ee5f95f846c8e54.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>FiT ВСAА 500 грамм, лимон</name>
 				<vendorCode>4607055681732</vendorCode>
@@ -902,7 +902,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SicilianOrange_site.5a6cc8fd713cfa8c60b7e7bdd659c850.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>FiT ВСAА 500 грамм, сицилийский апельсин</name>
 				<vendorCode>4607055681749</vendorCode>
@@ -920,7 +920,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Amino_Fit_55NEW_4.fb4a71c4996be1895a7e4ff47314733b.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>AminoFit</name>
 				<vendorCode>4607055681848</vendorCode>
@@ -936,7 +936,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Нейростимулятор</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FF_TONUS%20%283%29.b45c4423d67df0106ee5f95f846c8e54.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Fit Tonus®</name>
 				<vendorCode>4607055681862</vendorCode>
@@ -952,7 +952,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Protein_Clubnika.064327aaf8aac213cb8406301f41b316.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>SPORTEIN® Enriched Protein Клубника 2270 г.</name>
 				<vendorCode>4607055681954</vendorCode>
@@ -976,7 +976,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Protein_Vanil.091ca58c86fa1b4513f31b99fe350c92.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>SPORTEIN® Enriched Protein Ваниль 2270 г.</name>
 				<vendorCode>4607055681930</vendorCode>
@@ -992,7 +992,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Protein_Choko.67f51ea6943818a85545ca76c78c45c8.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>SPORTEIN® Enriched Protein Шоколад 2270 г.</name>
 				<vendorCode>4607055681978</vendorCode>
@@ -1008,7 +1008,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Protein_vanil.4d0e037390653dd0bd6d80c9a19d1757.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Whey FitPROTEIN (2270 гр.) ваниль</name>
 				<vendorCode>4607055681992</vendorCode>
@@ -1024,7 +1024,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Protein_clubnika.e390d105da83615560c12d0a129c881a.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Whey FitPROTEIN (2270 гр.) клубника</name>
 				<vendorCode>4607055682005</vendorCode>
@@ -1040,7 +1040,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Protein_chokolat.d409b787a214e09743c42cf76e655ed1.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Whey FitPROTEIN (2270 гр.) шоколад</name>
 				<vendorCode>4607055682012</vendorCode>
@@ -1056,7 +1056,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Gainer_Vanil.45bf8b1bcaf950203f8ec7a6eafd727c.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ГЕЙНЕР SPORTEIN® GAINER (2500 г.) ваниль</name>
 				<vendorCode>4607055681879</vendorCode>
@@ -1072,7 +1072,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Gainer_Klubnika.81347a6bb688bf25b980061d54d57dca.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ГЕЙНЕР SPORTEIN® GAINER (2500 г.) клубника</name>
 				<vendorCode>4607055681893</vendorCode>
@@ -1088,7 +1088,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Gainer_Choko.a74e34dc6f29a2a3f49bc1044218215d.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ГЕЙНЕР SPORTEIN® GAINER (2500 г.) шоколад</name>
 				<vendorCode>4607055681916</vendorCode>
@@ -1104,7 +1104,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Gainer_vanil%20%282%29.547272da5800ea3a138b71bc0774649d.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Fit Gainer (2500 г.) ваниль</name>
 				<vendorCode>4607055682029</vendorCode>
@@ -1120,7 +1120,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Gainer_clubnika.9514b65dfaabfe90bef27ca80e45aa16.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Fit Gainer (2500 г.) клубника</name>
 				<vendorCode>4607055682036</vendorCode>
@@ -1136,13 +1136,30 @@ Champions Energy Bar батончики рекомендуются для все
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Gainer_chokolat.f3988a24592c3ef29c9baaf4d6a1b711.jpg</picture>
-				<instock>15</instock>
+				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Fit Gainer (2500 г.) шоколад</name>
 				<vendorCode>4607055682043</vendorCode>
 				<description>«FIT GAINER» включает в себя сбалансированный белковый комплекс, углеводы с пищевыми волокнами (в сумме дающие быструю и долговременную энергию), креатин и папаин (фермент который улучшает усвояемость белка), а также специально разработанный витаминно-минеральный профиль, оптимизирующий энергетику, усвоение и обмен веществ.</description>
 				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
 				<barcode>4607055682043</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055682319" available="true">
+				<oldprice>930</oldprice>
+				<price>930</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Предтренировочный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/AKADEMY-T_Guarana_20.ced3a3a8de598bb258083b0cac505243.jpg</picture>
+				<instock>55</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Guarana 20 amp x 25 ml Лесной орех</name>
+				<vendorCode>4607055682319</vendorCode>
+				<description>Гуарана – сбалансированный натуральный энергетик нового поколения, для увеличения энергообеспечения, повышения тонуса и работоспособности.
+Содержит уникальную комбинацию 100% натуральных веществ, обладающих синергичным действием и оказывающим комплексное воздействие, в том числе профилактическое.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055682319</barcode>
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 		</offers>
