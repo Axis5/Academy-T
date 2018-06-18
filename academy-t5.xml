@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2018-05-07 17:05">
+<yml_catalog date="2018-06-18 18:05">
 	<shop>
 		<name>АКАДЕМИЯ-Т</name>
 		<company>АКАДЕМИЯ-Т ООО</company>
@@ -17,7 +17,7 @@
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/ForestBerry_site.0e71161ef0638bd93be3625872c2cbe9.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_BCAA_Berry_500.18f092c42df0dc3c84a13d246ff68af6.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>FiT ВСAА 500 грамм, лесные ягоды</name>
@@ -44,7 +44,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Enriched_Protein_750_Vanil.58894e9e2fccdec9f1cd269a6de4a305.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_PROTEIN_Vanil_750.dd0b2d5a2a64a3ebb898b646e1164005.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ПРОТЕИН SPORTEIN®Enriched PROTEIN (750 гр.) ваниль</name>
@@ -60,7 +60,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Enriched_Protein_750_Klubnika.58894e9e2fccdec9f1cd269a6de4a305.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_PROTEIN_Klubn_750.2799b16cbe10890628e98b10cce529fe.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ПРОТЕИН SPORTEIN®Enriched PROTEIN (750 гр.) клубника</name>
@@ -76,7 +76,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Enriched_Protein_750_Choko.58894e9e2fccdec9f1cd269a6de4a305.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_PROTEIN_Shoko_750.37be2268375e88e60a63a073b3dc5d77.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ПРОТЕИН SPORTEIN®Enriched PROTEIN (750 гр.) шоколад</name>
@@ -92,7 +92,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_protein_vanil-750.ec416c308e6b8c7ce079c34457765fcd.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT-PROTEIN_Vanil_750.94298125315a7c1b532e6527ea319891.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитПротеин банка (750 гр.) ваниль (FITNESS FORMULA)</name>
@@ -108,7 +108,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_protein_straw-750.ec416c308e6b8c7ce079c34457765fcd.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT-PROTEIN_Klubn_750.0d03a72c8938a9b4fabeef2e78132c70.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитПротеин банка (750 гр.) клубника (FITNESS FORMULA)</name>
@@ -124,7 +124,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_protein_shoko-750.3808e33c191fe2c3724c80eb3e7e87c5.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT-PROTEIN_Shoko_750.32fa4aa0ba777cf2523cbe6e66b1e353.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитПротеин банка (750 гр.) шоколад (FITNESS FORMULA)</name>
@@ -140,7 +140,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Gainer_750_Vanil.631b68541fe6486d962075650dd81b66.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_GAINER_Vanil_750.e10a2d99fce6f20691f6173fbf0096ec.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ГЕЙНЕР SPORTEIN®  GAINER  (750 гр.) ваниль</name>
@@ -156,7 +156,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Gainer_750_Klubnika.631b68541fe6486d962075650dd81b66.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_GAINER_Klubn_750.82d9919353a01ff7c97368bafa4f48d8.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ГЕЙНЕР SPORTEIN®  GAINER  (750 гр.) клубника</name>
@@ -172,7 +172,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Gainer_750_Choko.3091076d2969c62ea764b3895e81bac3.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_GAINER_Shoko_750.06ad7e6c0c6fd11b785c71985144f6b4.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ГЕЙНЕР SPORTEIN®  GAINER  (750 гр.) шоколад</name>
@@ -188,7 +188,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_gainer_vanil-750.2386d2378f8188bb5bee693e1fde6cf2.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT-GAINER_Vanil_750.52f27e30e6d5427382b1e42b6a73dbf8.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитГейнер банка (750 г.) ваниль (FITNESS FORMULA)</name>
@@ -204,7 +204,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_gainer_straw-750.c51fe7857376135b75d9222be996c93b.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT-GAINER_Klubn_750.b077748006a921581151714cecb621f7.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитГейнер банка (750 г.) клубника (FITNESS FORMULA)</name>
@@ -220,7 +220,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_gainer_shoko-750.c51fe7857376135b75d9222be996c93b.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT-GAINER_Shoko_750.3a07ce7e04b733d7c096725a540b2f17.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ФитГейнер банка (750 г.) шоколад (FITNESS FORMULA)</name>
@@ -236,7 +236,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Изотоник</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/izy_lemon_small.eab2e99560dcd014d2b3aca74b99982f.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/IZOTONIK_Lemon_750.9d43b6ee46dfa016150c1a0bee6f8ba6.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ИЗОТОНИК ISOTONIC Sea Energy 1200 гр. Лимон</name>
@@ -252,7 +252,7 @@ FIT BCAA подходит для применения как в трениров
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Изотоник</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/izy_apple_small.960b2d39df64ac60c3a53c075ab7d743.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/IZOTONIK_Apple_750.fb52200be61a7b81fee680bfa8b7043f.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>ИЗОТОНИК ISOTONIC Sea Energy 1200 гр. Яблоко</name>
@@ -829,7 +829,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Креатин</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit-creatine.0881f9ef587f3927c026b3ff817ad77a.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Creatine_600.b373f45bc001cf634477d8297c1f72e1.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>Fit CREATINE 600 гр.</name>
@@ -847,7 +847,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FF_FITBCAA_cherry.bbee1f3fd45310360614104e2170ad98.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_BCAA_Cherry_500.e7c89eec6d9f44a9c8eabe9f26f98661.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>FiT ВСAА 500 грамм, вишня</name>
@@ -865,7 +865,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FF_FITBCAA_apple.bbee1f3fd45310360614104e2170ad98.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_BCAA_Apple_500.1205dadfbad1e7fd2711259a40d1e28e.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>FiT ВСAА 500 грамм, яблоко</name>
@@ -883,7 +883,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FF_FITBCAA_lemon.b45c4423d67df0106ee5f95f846c8e54.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_BCAA_Lemon_500.221d5dc21f303ba7871dc1d48da7615f.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>FiT ВСAА 500 грамм, лимон</name>
@@ -901,7 +901,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
-				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SicilianOrange_site.5a6cc8fd713cfa8c60b7e7bdd659c850.jpg</picture>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_BCAA_Orange_500.a120376c67299aaa341247e207d02ddd.jpg</picture>
 				<instock>55</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>FiT ВСAА 500 грамм, сицилийский апельсин</name>
@@ -1157,6 +1157,7 @@ Champions Energy Bar батончики рекомендуются для все
 				<name>Guarana 20 amp x 25 ml Лесной орех</name>
 				<vendorCode>4607055682319</vendorCode>
 				<description>Гуарана – сбалансированный натуральный энергетик нового поколения, для увеличения энергообеспечения, повышения тонуса и работоспособности.
+
 Содержит уникальную комбинацию 100% натуральных веществ, обладающих синергичным действием и оказывающим комплексное воздействие, в том числе профилактическое.</description>
 				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
 				<barcode>4607055682319</barcode>
