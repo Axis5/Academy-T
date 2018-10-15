@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2018-08-14 17:05">
+<yml_catalog date="2018-10-15 17:05">
 	<shop>
 		<name>АКАДЕМИЯ-Т</name>
 		<company>АКАДЕМИЯ-Т ООО</company>
@@ -13,7 +13,7 @@
 		<offers>
 			<offer id="4607055681770" available="true">
 				<oldprice>1700</oldprice>
-				<price>1700</price>
+				<price>1445</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
@@ -40,7 +40,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680469" available="true">
 				<oldprice>1250</oldprice>
-				<price>1250</price>
+				<price>1063</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -56,7 +56,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680483" available="true">
 				<oldprice>1250</oldprice>
-				<price>1250</price>
+				<price>1063</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -72,7 +72,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680506" available="true">
 				<oldprice>1250</oldprice>
-				<price>1250</price>
+				<price>1063</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -88,7 +88,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681596" available="true">
 				<oldprice>1150</oldprice>
-				<price>1150</price>
+				<price>978</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -104,7 +104,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681602" available="true">
 				<oldprice>1150</oldprice>
-				<price>1150</price>
+				<price>978</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -120,7 +120,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681619" available="true">
 				<oldprice>1150</oldprice>
-				<price>1150</price>
+				<price>978</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -136,7 +136,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680544" available="true">
 				<oldprice>920</oldprice>
-				<price>920</price>
+				<price>782</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -152,7 +152,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680551" available="true">
 				<oldprice>920</oldprice>
-				<price>920</price>
+				<price>782</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -168,7 +168,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680568" available="true">
 				<oldprice>920</oldprice>
-				<price>920</price>
+				<price>782</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -184,7 +184,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681626" available="true">
 				<oldprice>690</oldprice>
-				<price>690</price>
+				<price>587</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -200,7 +200,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681633" available="true">
 				<oldprice>690</oldprice>
-				<price>690</price>
+				<price>587</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -216,7 +216,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681640" available="true">
 				<oldprice>690</oldprice>
-				<price>690</price>
+				<price>587</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -232,7 +232,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680575" available="true">
 				<oldprice>1200</oldprice>
-				<price>1200</price>
+				<price>1020</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Изотоник</typePrefix>
@@ -248,7 +248,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680599" available="true">
 				<oldprice>1200</oldprice>
-				<price>1200</price>
+				<price>1020</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Изотоник</typePrefix>
@@ -264,7 +264,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681138" available="true">
 				<oldprice>520</oldprice>
-				<price>520</price>
+				<price>442</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Антиоксидант</typePrefix>
@@ -280,7 +280,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681169" available="true">
 				<oldprice>700</oldprice>
-				<price>700</price>
+				<price>595</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Антиоксидант</typePrefix>
@@ -296,7 +296,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681541" available="true">
 				<oldprice>600</oldprice>
-				<price>600</price>
+				<price>510</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Антиоксидант</typePrefix>
@@ -316,7 +316,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681251" available="true">
 				<oldprice>861</oldprice>
-				<price>861</price>
+				<price>733</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Защита суставов и связок</typePrefix>
@@ -334,7 +334,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681152" available="true">
 				<oldprice>1450</oldprice>
-				<price>1450</price>
+				<price>1233</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Защита суставов и связок</typePrefix>
@@ -352,7 +352,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680445" available="true">
 				<oldprice>1100</oldprice>
-				<price>1100</price>
+				<price>935</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Защита суставов и связок</typePrefix>
@@ -368,7 +368,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681244" available="true">
 				<oldprice>1600</oldprice>
-				<price>1600</price>
+				<price>1360</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Защита суставов и связок</typePrefix>
@@ -384,7 +384,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681220" available="true">
 				<oldprice>490</oldprice>
-				<price>490</price>
+				<price>417</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Витамины</typePrefix>
@@ -400,7 +400,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681114" available="true">
 				<oldprice>460</oldprice>
-				<price>460</price>
+				<price>391</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Креатин</typePrefix>
@@ -416,7 +416,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681121" available="true">
 				<oldprice>1100</oldprice>
-				<price>1100</price>
+				<price>935</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Креатин</typePrefix>
@@ -432,7 +432,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681107" available="true">
 				<oldprice>720</oldprice>
-				<price>720</price>
+				<price>612</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Жиросжигатель</typePrefix>
@@ -448,7 +448,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681565" available="true">
 				<oldprice>1120</oldprice>
-				<price>1120</price>
+				<price>952</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Жиросжигатель</typePrefix>
@@ -464,7 +464,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681589" available="true">
 				<oldprice>1250</oldprice>
-				<price>1250</price>
+				<price>1063</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Жиросжигатель</typePrefix>
@@ -480,7 +480,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680261" available="true">
 				<oldprice>660</oldprice>
-				<price>660</price>
+				<price>561</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение выносливости</typePrefix>
@@ -498,7 +498,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681176" available="true">
 				<oldprice>480</oldprice>
-				<price>480</price>
+				<price>408</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение уровня тестостерона</typePrefix>
@@ -514,7 +514,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681183" available="true">
 				<oldprice>920</oldprice>
-				<price>920</price>
+				<price>782</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение уровня тестостерона</typePrefix>
@@ -530,7 +530,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681190" available="true">
 				<oldprice>580</oldprice>
-				<price>580</price>
+				<price>493</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение уровня тестостерона</typePrefix>
@@ -548,7 +548,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681206" available="true">
 				<oldprice>1110</oldprice>
-				<price>1110</price>
+				<price>945</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение уровня тестостерона</typePrefix>
@@ -566,7 +566,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681213" available="true">
 				<oldprice>550</oldprice>
-				<price>550</price>
+				<price>468</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Витамины</typePrefix>
@@ -582,7 +582,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4751014202121" available="true">
 				<oldprice>820</oldprice>
-				<price>820</price>
+				<price>697</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Повышение выносливости</typePrefix>
@@ -598,7 +598,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055681237" available="true">
 				<oldprice>560</oldprice>
-				<price>560</price>
+				<price>476</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Антистресс</typePrefix>
@@ -614,7 +614,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680049" available="true">
 				<oldprice>800</oldprice>
-				<price>800</price>
+				<price>680</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Защита печени</typePrefix>
@@ -630,7 +630,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680100" available="true">
 				<oldprice>780</oldprice>
-				<price>780</price>
+				<price>663</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Защита печени</typePrefix>
@@ -646,7 +646,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680308" available="true">
 				<oldprice>600</oldprice>
-				<price>600</price>
+				<price>510</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Пребиотик</typePrefix>
@@ -662,7 +662,7 @@ FIT BCAA подходит для применения как в трениров
 			</offer>
 			<offer id="4607055680391" available="true">
 				<oldprice>1152</oldprice>
-				<price>1152</price>
+				<price>980</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Батончики</typePrefix>
@@ -682,7 +682,7 @@ Champions High Protein Bar – вкусный и натуральный бато
 			</offer>
 			<offer id="4607055680407" available="true">
 				<oldprice>1024</oldprice>
-				<price>1024</price>
+				<price>871</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Батончики</typePrefix>
@@ -704,7 +704,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055680438" available="true">
 				<oldprice>1152</oldprice>
-				<price>1152</price>
+				<price>980</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Батончики</typePrefix>
@@ -724,7 +724,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055680414" available="true">
 				<oldprice>1024</oldprice>
-				<price>1024</price>
+				<price>871</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Батончики</typePrefix>
@@ -744,7 +744,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681046" available="true">
 				<oldprice>860</oldprice>
-				<price>860</price>
+				<price>731</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
@@ -760,7 +760,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681060" available="true">
 				<oldprice>1300</oldprice>
-				<price>1300</price>
+				<price>1105</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
@@ -776,7 +776,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681053" available="true">
 				<oldprice>810</oldprice>
-				<price>810</price>
+				<price>687</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
@@ -792,7 +792,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681077" available="true">
 				<oldprice>1800</oldprice>
-				<price>1800</price>
+				<price>1530</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
@@ -808,7 +808,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681084" available="true">
 				<oldprice>1350</oldprice>
-				<price>1350</price>
+				<price>1148</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
@@ -825,7 +825,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681695" available="true">
 				<oldprice>850</oldprice>
-				<price>850</price>
+				<price>723</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Креатин</typePrefix>
@@ -843,7 +843,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681787" available="true">
 				<oldprice>1700</oldprice>
-				<price>1700</price>
+				<price>1445</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
@@ -861,7 +861,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681725" available="true">
 				<oldprice>1700</oldprice>
-				<price>1700</price>
+				<price>1445</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
@@ -879,7 +879,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681732" available="true">
 				<oldprice>1700</oldprice>
-				<price>1700</price>
+				<price>1445</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
@@ -897,7 +897,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681749" available="true">
 				<oldprice>1700</oldprice>
-				<price>1700</price>
+				<price>1445</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
@@ -915,7 +915,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681848" available="true">
 				<oldprice>1150</oldprice>
-				<price>1150</price>
+				<price>978</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Аминокислотный комплекс</typePrefix>
@@ -931,7 +931,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681862" available="true">
 				<oldprice>1200</oldprice>
-				<price>1200</price>
+				<price>1020</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Нейростимулятор</typePrefix>
@@ -947,7 +947,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681954" available="true">
 				<oldprice>3550</oldprice>
-				<price>3550</price>
+				<price>3018</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -971,7 +971,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681930" available="true">
 				<oldprice>3550</oldprice>
-				<price>3550</price>
+				<price>3018</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -987,7 +987,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681978" available="true">
 				<oldprice>3550</oldprice>
-				<price>3550</price>
+				<price>3018</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -1003,7 +1003,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681992" available="true">
 				<oldprice>3090</oldprice>
-				<price>3090</price>
+				<price>2627</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -1019,7 +1019,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055682005" available="true">
 				<oldprice>3090</oldprice>
-				<price>3090</price>
+				<price>2627</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -1035,7 +1035,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055682012" available="true">
 				<oldprice>3090</oldprice>
-				<price>3090</price>
+				<price>2627</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Протеин</typePrefix>
@@ -1051,7 +1051,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681879" available="true">
 				<oldprice>2620</oldprice>
-				<price>2620</price>
+				<price>2227</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -1067,7 +1067,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681893" available="true">
 				<oldprice>2620</oldprice>
-				<price>2620</price>
+				<price>2227</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -1083,7 +1083,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055681916" available="true">
 				<oldprice>2620</oldprice>
-				<price>2620</price>
+				<price>2227</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -1099,7 +1099,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055682029" available="true">
 				<oldprice>2120</oldprice>
-				<price>2120</price>
+				<price>1802</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -1115,7 +1115,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055682036" available="true">
 				<oldprice>2120</oldprice>
-				<price>2120</price>
+				<price>1802</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -1131,7 +1131,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055682043" available="true">
 				<oldprice>2120</oldprice>
-				<price>2120</price>
+				<price>1802</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Гейнер</typePrefix>
@@ -1147,7 +1147,7 @@ Champions Energy Bar батончики рекомендуются для все
 			</offer>
 			<offer id="4607055682319" available="true">
 				<oldprice>930</oldprice>
-				<price>930</price>
+				<price>791</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Предтренировочный комплекс</typePrefix>
