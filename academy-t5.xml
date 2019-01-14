@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2018-10-15 17:05">
+<yml_catalog date="2019-01-14 17:05">
 	<shop>
 		<name>АКАДЕМИЯ-Т</name>
 		<company>АКАДЕМИЯ-Т ООО</company>
@@ -382,14 +382,14 @@ FIT BCAA подходит для применения как в трениров
 				<barcode>4607055681244</barcode>
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
-			<offer id="4607055681220" available="true">
+			<offer id="4607055681220" available="false">
 				<oldprice>490</oldprice>
 				<price>417</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Витамины</typePrefix>
 				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/gemoton-90-black.72e40e73b9d48999ca6151051aac612b.jpg</picture>
-				<instock>55</instock>
+				<instock>0</instock>
 				<vendor>АКАДЕМИЯ-Т</vendor>
 				<name>GEMOTON®  90 капс.</name>
 				<vendorCode>4607055681220</vendorCode>
